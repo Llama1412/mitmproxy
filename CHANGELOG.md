@@ -2,7 +2,8 @@
 
 ## Unreleased: mitmproxy next
 
-
+* Changed keybinding for exporting flow from "e" to "x" to avoid conflict with "edit" keybinding.
+  ([#6225](https://github.com/mitmproxy/mitmproxy/issues/6225), @Llama1412)
 
 ## 04 August 2023: mitmproxy 10.0.0
 
